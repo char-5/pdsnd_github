@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # CREATED DATE: 08th January 2021
 
+||||||| parent of e15da06 (File Version added)
+=======
+# Version 1.1: Initial code created to interact with city data files
+# For all future versions where functionality has been altered, please provide
+# a description of the changes here and commentary above the changes made
+
+>>>>>>> e15da06 (File Version added)
 # all packages used in the bikeshare script are listed below
 import time
 import datetime
@@ -20,7 +28,8 @@ days_of_week = ["monday", "tuesday", "wednesday", "thursday", "friday",
 
 
 def get_city_names():
-
+    """ Retrieves the city names based on the data files available to remove
+    manual entry"""
     city_names = []
 
     for key, value in CITY_DATA.items():
