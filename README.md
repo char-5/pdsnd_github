@@ -1,8 +1,8 @@
 ### Date created
-08th January 2021
+*08th January 2021*
 
 ### Author
-C Brooks
+**C Brooks**
 
 ### Project Title
 Bike Share Udacity Project
@@ -16,5 +16,5 @@ Washington.csv
 New_york_city.csv
 
 ### Credits
-ReadMe formatting provided by Udacity
+ReadMe formatting provided by **Udacity**
 https://github.com/char-5/pdsnd_github/commits?author=rbUdacProjects
