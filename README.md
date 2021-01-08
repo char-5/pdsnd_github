@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+08th January 2021
 
 ### Project Title
-Replace the Project Title
+Bike Share Udacity Project
 
 ### Description
-Describe what your project is about and what it does
+The project provides a setup that allows users to interact with the datasets included in this project. It also provides detailed information about the data dependent upon filters provided by the user.
 
 ### Files used
-Include the files used
+Chicaco.csv
+Washington.csv
+New_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+ReadMe formatting provided by Udacity
+https://github.com/char-5/pdsnd_github/commits?author=rbUdacProjects
