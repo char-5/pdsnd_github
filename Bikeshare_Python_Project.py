@@ -1,3 +1,7 @@
+# Version 1.1: Initial code created to interact with city data files
+# For all future versions where functionality has been altered, please provide
+# a description of the changes here and commentary above the changes made
+
 # all packages used in the bikeshare script are listed below
 import time
 import datetime
