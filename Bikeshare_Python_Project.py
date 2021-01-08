@@ -18,7 +18,8 @@ days_of_week = ["monday", "tuesday", "wednesday", "thursday", "friday",
 
 
 def get_city_names():
-
+    """ Retrieves the city names based on the data files available to remove
+    manual entry"""
     city_names = []
 
     for key, value in CITY_DATA.items():
